@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "trabalhodeciencias",
+  "version": "1.0.0",
+  "description": "1. Chat\r #### Alessandra \r 1. word",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^4.26.2",
+    "zod": "^3.22.4"
+  }
+}
